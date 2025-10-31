@@ -134,7 +134,7 @@
   <a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Kali_Linux_logo.svg" alt="Kali Linux" height="50" /></a>  
   <a href="https://portswigger.net/burp" target="_blank"><img src="https://avatars.githubusercontent.com/u/11198798?s=200&v=4" alt="Burp Suite" height="50" /></a>  
   <a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nessus/nessus-original.svg" alt="Nessus" height="50" /></a>  
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Metasploit_logo.png" alt="Metasploit" height="50" /></a>  
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://commons.wikimedia.org/wiki/File:Metasploit_logo_and_wordmark.svg" alt="Metasploit" height="50" /></a>  
   <a href="https://www.zaproxy.org/" target="_blank"><img src="https://www.zaproxy.org/assets/images/logo.svg" alt="OWASP ZAP" height="50" /></a>  
   <a href="https://owasp.org/www-project-top-ten/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/OWASP_Logo.png" alt="OWASP" height="50" /></a>
 </div>
