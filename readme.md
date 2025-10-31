@@ -3,7 +3,7 @@
 
 <!-- Greet Line -->
 <p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00ffea&size=22&center=true&lines=Hey,+I'm+Keshav+👋;Cybersecurity+%7C+Full+Stack+Developer+💻;VAPT+Analyst+%F0%9F%9A%80+|+Security+Enthusiast+%F0%9F%94%90;Welcome+to+My+Digital+Space+⚡;Stay+Curious,+Stay+Secure+🔐"></a>
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00ffea&size=22&center=true&lines=Hey,+I'm+Keshav+👋;Cybersecurity+%7C+Full+Stack+Developer+💻; VAPT+Analyst+%F0%9F%9A%80+|+Security+Enthusiast+%F0%9F%94%90;Welcome+to+My+Digital+Space+⚡;Stay+Curious,+Stay+Secure+🔐"></a>
 </p>
 
 <!-- Hero Banner -->
