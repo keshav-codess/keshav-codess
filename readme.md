@@ -155,10 +155,16 @@
 
 ## 🧑‍💻 GitHub Stats
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeshavChauhan&show_icons=true&theme=radical" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeshavChauhan&theme=radical" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshav-codess&show_icons=true&theme=tokyonight&count_private=true" alt="Keshav's GitHub Stats" />
 </p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-codess&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ---
 
