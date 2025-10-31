@@ -150,7 +150,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | 💬 **Multi-User Chat App** | Real-time multiuser chat app | Java, Swing, Sockets |
-| 🎵 **React Music App** | Spotify API integration, responsive design | React, Bootstrap |
+| 🎵 **React Music App** |  API integration, responsive design | React, Bootstrap |
 | 🧩 **Crossword Solver** | Web-based crossword generator & solver | Java, Servlets |
 | 🤖 **AI Mental Health Journal** | Daily journaling + AI-based emotional analysis | React, Flask, OpenAI API |
 
