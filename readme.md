@@ -59,15 +59,71 @@
 ![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+# 🛠 My Skills Set
+
+<table>
+<tr>
+
+<!-- Frontend -->
+<td valign="top" width="25%">
+
+### Frontend
+<div align="center">  
+  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+</div>
+
+</td>
+
+<!-- Backend -->
+<td valign="top" width="25%">
+
+### Backend
+<div align="center">  
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+  <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+</div>
+
+</td>
+
+<!-- DevOps -->
+<td valign="top" width="25%">
+
+### DevOps
+<div align="center">  
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+  <a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+</div>
+
+</td>
+
+<!-- Cybersecurity / VAPT Tools -->
+<td valign="top" width="25%">
+
+### Cybersecurity / VAPT
+<div align="center">  
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://www.vectorlogo.zone/logos/portswigger/burp-icon.svg" alt="Burp Suite" height="50" /></a>  
+  <a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Nessus_logo.png" alt="Nessus" height="50" /></a>  
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Metasploit_logo.png" alt="Metasploit" height="50" /></a>  
+  <a href="https://www.zaproxy.org/" target="_blank"><img src="https://www.zaproxy.org/assets/images/logo.svg" alt="OWASP ZAP" height="50" /></a>  
+  <a href="https://owasp.org/www-project-top-ten/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/OWASP_Logo.png" alt="OWASP" height="50" /></a>
+</div>
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-## 🧰 Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,docker,figma,aws,gcp,postman,bootstrap" />
-</p>
-
----
 
 ## 🪄 Featured Projects
 
