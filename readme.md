@@ -44,6 +44,8 @@
   <a href="mailto:kc397439@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
   <a href="https://leetcode.com/u/keshav_codess/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"></a>
   <a href="https://github.com/keshav-codess" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
+  <a href="https://www.geeksforgeeks.org/user/kc397439/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" alt="GeeksforGeeks" style="filter: brightness(0) invert(1);" /></a>
+
 </p>
 
 ---
