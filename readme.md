@@ -169,21 +169,6 @@
 </p>
 
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://holopin.me/keshav" alt="Holopin Badges" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/KeshavChauhan/KeshavChauhan/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
