@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="mailto:kc397439@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
-  <a href="https://leetcode.com/u/keshav_codess/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"></a>
+  <a href="https://leetcode.com/u/keshav_codess/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"></a>
   <a href="https://github.com/keshav-codess" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
 </p>
 
