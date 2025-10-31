@@ -34,7 +34,7 @@
 - 💼 Currently building: **AI-Powered Mental Health Journal**  
 - 💬 Open to collaborations in **Cybersecurity or Web Dev Projects**  
 - 🧩 Loves **problem-solving, automation, and system design**  
-- ☕ Fueled by **chai + curiosity**
+- ☕ Fueled by **coffee + curiosity**
 
 ---
 
