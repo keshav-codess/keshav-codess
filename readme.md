@@ -41,11 +41,9 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/keshav-chauhan" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="mailto:keshav@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
-  <a href="https://leetcode.com/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"></a>
-  <a href="https://medium.com/" target="_blank"><img src="https://skillicons.dev/icons?i=medium" height="40"></a>
-  <a href="https://github.com/KeshavChauhan" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
+  <a href="mailto:kc397439@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+  <a href="https://leetcode.com/u/keshav_codess/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"></a>
+  <a href="https://github.com/keshav-codess" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
 </p>
 
 ---
