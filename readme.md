@@ -17,7 +17,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/KeshavChauhan">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Development;Web+Security;Penetration+Testing;Java+%7C+React+%7C+Node;Always+Learning+Something+New!&font=Pacifico&center=true&width=1000&height=120&color=00ffea&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Development;Web+Security;Penetration+Testing;Java+%7C+React+%7C+Node&font=Pacifico&center=true&width=1000&height=120&color=00ffea&vCenter=true&size=45">
   </a>
 </p>
 
