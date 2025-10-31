@@ -65,6 +65,11 @@
 <!-- Language and Tools Section -->
 <h1 align="center">🛠 Languages & Tools</h1>
 
+<!-- Vector Tool Gif -->
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<!-- Vector Tool Gif Ends -->
+
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -82,55 +87,59 @@
 
 # 🛠 My Skills Set
 
-<table>
+<table width="100%">
 <tr>
 
 <!-- Frontend -->
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### Frontend
-<div align="center">  
-  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; padding:8px 4px;">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="48" height="48" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="48" height="48" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="48" height="48" /></a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="48" height="48" /></a>
+  <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" width="48" height="48" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="48" height="48" /></a>
 </div>
 
 </td>
 
 <!-- Backend -->
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### Backend
-<div align="center">  
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-  <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; padding:8px 4px;">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="48" height="48" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="48" height="48" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="48" height="48" /></a>
 </div>
 
 </td>
 
 <!-- DevOps -->
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### DevOps
-<div align="center">  
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-  <a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; padding:8px 4px;">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="48" height="48" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="48" height="48" /></a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" width="48" height="48" /></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="48" height="48" /></a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="48" height="48" /></a>
 </div>
 
 </td>
-
 
 </tr>
 </table>
 
 ---
+
 
 
 ## 🪄 Featured Projects
